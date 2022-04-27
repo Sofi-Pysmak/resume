@@ -29,7 +29,8 @@ body {
 }
 
 .my-photo {
-  width: 370px;
+  width: 300px;
+  padding: 0px 40px;
 }
 
 .about-me-container {
