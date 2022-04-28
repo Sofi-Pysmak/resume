@@ -30,7 +30,11 @@ body {
 
 .my-photo {
   width: 300px;
-  padding: 0px 40px;
+  margin: 0px 20px 0px 20px;
+  border: solid;
+  border-color: #2A1B3D;
+  border-radius: 10px;
+
 }
 
 .about-me-container {
